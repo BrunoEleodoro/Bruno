@@ -1,0 +1,6 @@
+Tipo de instalação - Arrumei o botão voltar, tava fechando o app
+Selecionar o local - Coloquei um MessageBox e arrumei a transição de forms, tava abrindo o form final e esse não fechava
+Form final - Coloquei o comando pra fechar no botão (tava sem).
+
+-Coloquei todos os forms do mesmo tamanho e alinhei os textos
+

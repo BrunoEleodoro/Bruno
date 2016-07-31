@@ -1,0 +1,25 @@
+H:\ETEC\DS\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.exe
+H:\ETEC\DS\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.pdb
+H:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio_Medico.Form1.resources
+H:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio_Medico.Properties.Resources.resources
+H:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.csproj.GenerateResource.Cache
+H:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.exe
+H:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.pdb
+E:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.exe
+E:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.pdb
+E:\ETEC\DS\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.exe
+E:\ETEC\DS\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.pdb
+E:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio_Medico.Form1.resources
+E:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio_Medico.Properties.Resources.resources
+E:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.csproj.GenerateResource.Cache
+E:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.csprojResolveAssemblyReference.cache
+E:\ETEC\DS\Consultorio Medico\Consultorio Medico\bin\Debug\MySql.Data.dll
+I:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.exe
+I:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.pdb
+I:\ETEC\DS\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.exe
+I:\ETEC\DS\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.pdb
+I:\ETEC\DS\Consultorio Medico\Consultorio Medico\bin\Debug\MySql.Data.dll
+I:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.csprojResolveAssemblyReference.cache
+I:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio_Medico.Form1.resources
+I:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio_Medico.Properties.Resources.resources
+I:\ETEC\DS\Consultorio Medico\Consultorio Medico\obj\x86\Debug\Consultorio Medico.csproj.GenerateResource.Cache

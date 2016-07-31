@@ -1,0 +1,24 @@
+I:\ETEC\DS\Acessando Mysql\Acessando Mysql\bin\Debug\Acessando Mysql.exe
+I:\ETEC\DS\Acessando Mysql\Acessando Mysql\bin\Debug\Acessando Mysql.pdb
+I:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando_Mysql.Form1.resources
+I:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando_Mysql.Properties.Resources.resources
+I:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.exe
+I:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.pdb
+E:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.exe
+E:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.pdb
+E:\ETEC\DS\Acessando Mysql\Acessando Mysql\bin\Debug\Acessando Mysql.exe
+E:\ETEC\DS\Acessando Mysql\Acessando Mysql\bin\Debug\Acessando Mysql.pdb
+E:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.csprojResolveAssemblyReference.cache
+E:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando_Mysql.Form1.resources
+E:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando_Mysql.Properties.Resources.resources
+E:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.csproj.GenerateResource.Cache
+H:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.exe
+H:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.pdb
+H:\ETEC\DS\Acessando Mysql\Acessando Mysql\bin\Debug\Acessando Mysql.exe
+H:\ETEC\DS\Acessando Mysql\Acessando Mysql\bin\Debug\Acessando Mysql.pdb
+H:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.csprojResolveAssemblyReference.cache
+H:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando_Mysql.Form1.resources
+H:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando_Mysql.Properties.Resources.resources
+H:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.csproj.GenerateResource.Cache
+I:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.csprojResolveAssemblyReference.cache
+I:\ETEC\DS\Acessando Mysql\Acessando Mysql\obj\x86\Debug\Acessando Mysql.csproj.GenerateResource.Cache

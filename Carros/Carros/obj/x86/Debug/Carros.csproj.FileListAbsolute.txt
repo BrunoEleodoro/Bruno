@@ -1,0 +1,9 @@
+G:\ETEC\DS\Carros\Carros\bin\Debug\Carros.exe
+G:\ETEC\DS\Carros\Carros\bin\Debug\Carros.pdb
+G:\ETEC\DS\Carros\Carros\bin\Debug\MySql.Data.dll
+G:\ETEC\DS\Carros\Carros\obj\x86\Debug\Carros.csprojResolveAssemblyReference.cache
+G:\ETEC\DS\Carros\Carros\obj\x86\Debug\Carros.Form1.resources
+G:\ETEC\DS\Carros\Carros\obj\x86\Debug\Carros.Properties.Resources.resources
+G:\ETEC\DS\Carros\Carros\obj\x86\Debug\Carros.csproj.GenerateResource.Cache
+G:\ETEC\DS\Carros\Carros\obj\x86\Debug\Carros.exe
+G:\ETEC\DS\Carros\Carros\obj\x86\Debug\Carros.pdb

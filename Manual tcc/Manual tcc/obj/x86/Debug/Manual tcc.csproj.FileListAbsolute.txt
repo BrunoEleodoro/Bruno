@@ -1,0 +1,9 @@
+I:\ETEC\DS\Manual tcc\Manual tcc\bin\Debug\Manual tcc.exe
+I:\ETEC\DS\Manual tcc\Manual tcc\bin\Debug\Manual tcc.pdb
+I:\ETEC\DS\Manual tcc\Manual tcc\obj\x86\Debug\Manual_tcc.Form1.resources
+I:\ETEC\DS\Manual tcc\Manual tcc\obj\x86\Debug\Manual_tcc.Form2.resources
+I:\ETEC\DS\Manual tcc\Manual tcc\obj\x86\Debug\Manual_tcc.Form3.resources
+I:\ETEC\DS\Manual tcc\Manual tcc\obj\x86\Debug\Manual_tcc.Properties.Resources.resources
+I:\ETEC\DS\Manual tcc\Manual tcc\obj\x86\Debug\Manual tcc.csproj.GenerateResource.Cache
+I:\ETEC\DS\Manual tcc\Manual tcc\obj\x86\Debug\Manual tcc.exe
+I:\ETEC\DS\Manual tcc\Manual tcc\obj\x86\Debug\Manual tcc.pdb

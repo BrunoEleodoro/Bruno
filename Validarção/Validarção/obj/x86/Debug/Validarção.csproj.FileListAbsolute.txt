@@ -1,0 +1,15 @@
+H:\ETEC\DS\Validarção\Validarção\bin\Debug\Validarção.exe
+H:\ETEC\DS\Validarção\Validarção\bin\Debug\Validarção.pdb
+H:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.Form1.resources
+H:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.Properties.Resources.resources
+H:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.csproj.GenerateResource.Cache
+H:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.exe
+H:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.pdb
+E:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.exe
+E:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.pdb
+E:\ETEC\DS\Validarção\Validarção\bin\Debug\Validarção.exe
+E:\ETEC\DS\Validarção\Validarção\bin\Debug\Validarção.pdb
+E:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.Form1.resources
+E:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.Properties.Resources.resources
+E:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.csproj.GenerateResource.Cache
+H:\ETEC\DS\Validarção\Validarção\obj\x86\Debug\Validarção.csprojResolveAssemblyReference.cache

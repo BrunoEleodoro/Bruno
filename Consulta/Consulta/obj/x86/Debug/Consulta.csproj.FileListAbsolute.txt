@@ -1,0 +1,14 @@
+I:\ETEC\DS\Consulta\Consulta\bin\Debug\Consulta.exe
+I:\ETEC\DS\Consulta\Consulta\bin\Debug\Consulta.pdb
+I:\ETEC\DS\Consulta\Consulta\obj\x86\Debug\Consulta.Form1.resources
+I:\ETEC\DS\Consulta\Consulta\obj\x86\Debug\Consulta.Properties.Resources.resources
+I:\ETEC\DS\Consulta\Consulta\obj\x86\Debug\Consulta.csproj.GenerateResource.Cache
+I:\ETEC\DS\Consulta\Consulta\obj\x86\Debug\Consulta.exe
+I:\ETEC\DS\Consulta\Consulta\obj\x86\Debug\Consulta.pdb
+H:\ETEC\DS\Consulta\Consulta\bin\Debug\Consulta.exe
+H:\ETEC\DS\Consulta\Consulta\bin\Debug\Consulta.pdb
+H:\ETEC\DS\Consulta\Consulta\obj\x86\Debug\Consulta.Form1.resources
+H:\ETEC\DS\Consulta\Consulta\obj\x86\Debug\Consulta.Properties.Resources.resources
+H:\ETEC\DS\Consulta\Consulta\obj\x86\Debug\Consulta.csproj.GenerateResource.Cache
+H:\ETEC\DS\Consulta\Consulta\obj\x86\Debug\Consulta.exe
+H:\ETEC\DS\Consulta\Consulta\obj\x86\Debug\Consulta.pdb
